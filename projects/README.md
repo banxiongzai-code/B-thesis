@@ -10,14 +10,14 @@
 
 本リポジトリは以下のディレクトリで構成されています。
 
-'''text
+```text
 .
 ├── 01_data/           # 実験用データセット
 ├── 02_youko_program/  # Llama-3-Youko-8B を用いたプログラム（アブレーション実験を含む）
 ├── 03_calm_program/   # CALM3-22B を用いたプログラム（モデル比較実験用）
 ├── 04_GPT_program/    # GPT を用いたプログラム（モデル比較実験用）
 └── 05_eval/           # 生成結果の評価用プログラム
-'''
+```
 
 ##参考文献
-Zero-Shot Strategies for Length-Controllable Summarization (Retkowski & Waibel, Findings 2025)
+[Zero-Shot Strategies for Length-Controllable Summarization (Retkowski & Waibel, Findings 2025)](https://aclanthology.org/2025.findings-naacl.34.pdf)

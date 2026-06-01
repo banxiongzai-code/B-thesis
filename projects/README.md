@@ -19,5 +19,6 @@
 └── 05_eval/           # 生成結果の評価用プログラム
 ```
 
-##参考文献
+## 参考文献
+
 [Zero-Shot Strategies for Length-Controllable Summarization (Retkowski & Waibel, Findings 2025)](https://aclanthology.org/2025.findings-naacl.34.pdf)
